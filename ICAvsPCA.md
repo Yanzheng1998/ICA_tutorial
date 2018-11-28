@@ -1,4 +1,4 @@
-ICA | PCA
+PCA | ICA
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+find an orthogonal linear transformation that maximizes the variance of variables | find the linear transformaiton 
 Content in the first column | Content in the second column
